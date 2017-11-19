@@ -5,7 +5,7 @@ The root directory of this repository contains data, documents, and images that 
 
 Don't forget to check social media for hashtag [#HacktheUniverse](https://twitter.com/search?f=tweets&vertical=default&q=hacktheuniverse&src=typd)!
 
-See the [**wiki**](https://github.com/amnh/HackTheUniverse/wiki) for all the details!
+See the [**wiki**](https://github.com/amnh/HackTheUniverse/wiki) for all the details! 
 
 Looking for hackathon project repositories? Go to the [HackTheUniverse organization page](https://github.com/HackTheUniverse)
 
